@@ -1,0 +1,61 @@
+<html>
+
+	<head>
+		<title>Untitled</title>
+		
+		<meta charset="UTF-8" />
+		<link rel="stylesheet" href="resources/s.css" />
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+		<script src="resources/shortcuts.js"></script>
+		<script src="resources/hotkeys.js"></script>
+		<script src="resources/date.js"></script>
+	
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<script>
+	// HOTKEYS AND ASSIGNED WEBSITES
+	
+	var hotlink1 = 'http://deliciousroom.com/';
+//	var hotlink2 = 'INSERT URL HERE';
+//	var hotlink3 = 'INSERT URL HERE';
+//	var hotlink4 = 'INSERT URL HERE';
+//	var hotlink5 = 'INSERT URL HERE';
+//	var hotlink6 = 'INSERT URL HERE';
+//	var hotlink7 = 'INSERT URL HERE';
+//	var hotlink8 = 'INSERT URL HERE';
+//	var hotlink9 = 'INSERT URL HERE';
+	</script>
+	</head>
+
+
+
+
+
+
+
+
+	<body onload="startTime()">
+	<div id="cover"></div>
+	<p id="date"></p>
+
+
+	<!-- LIST OF DISPLAYED WEBSITES -->
+	<ul id="mainNav">
+		<li id="link1"><a href="http://deliciousroom.com"><span>1</span>example</a></li>
+		<li id="link2"><a href="#"><span>2</span>untitled</a></li>
+		<li id="link3"><a href="#"><span>3</span>untitled</a></li>
+		<li id="link4"><a href="#"><span>4</span>untitled</a></li>
+		<li id="link5"><a href="#"><span>5</span>untitled</a></li>
+<!--		<li id="link6"><a href="#"><span>6</span>untitled</a></li>		-->
+<!--		<li id="link7"><a href="#"><span>7</span>untitled</a></li>		-->
+<!--		<li id="link8"><a href="#"><span>8</span>untitled</a></li>		-->
+<!--		<li id="link9"><a href="#"><span>9</span>untitled</a></li>		-->
+	</ul>
+
+	
+	<p id="foot">Tip: the numbers on the right are the hotkeys for quick access.</p>
+	</body>
+
+</html>
