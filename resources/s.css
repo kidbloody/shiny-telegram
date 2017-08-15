@@ -63,7 +63,7 @@
 	}
 
 body{
-	background: white url(../bg.jpg) fixed no-repeat center center;
+	background: white url(https://raw.githubusercontent.com/kidbloody/shiny-telegram/master/bg.jpg) fixed no-repeat center center;
 	background-size: cover;
 	font: 14px "Helvetica Neue";
 	color: white;
